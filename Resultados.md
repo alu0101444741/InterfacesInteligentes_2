@@ -1,0 +1,19 @@
+## 
+
+# Ejercicio 1: Pruebas con RigidBody en un cubo y una esfera
+    a. Ninguno de los dos es físico
+        Los objetos permanecen estáticos en la posición asignada.
+    b. La esfera tiene físicas y el cubo no
+        La esfera es afectada por la gravedad y cae hasta colisionar con el terreno.
+    c. Ambos tienen físicas
+        Ambos caen.
+    d. Ambos tienen físicas pero la esfera tiene 10 veces la masa del cubo
+        No se aprecia diferencia alguna con el apartado anterior.
+    e. La esfera es física y el cubo es IsTrigger
+        La esfera cae hasta colisionar con el terreno pero el cubo permanece estático.
+    f. Ambos tienen físicas pero el cubo es IsTrigger
+        El cubo atraviesa el terreno y cae infinitamente.    
+    g. Ambos tienen físicas. La esfera tiene 10 veces la masa del cubo y se impide la rotación del cubo en el plano XZ.
+        No se aprecia diferencia con respecto al apartado 'c'.
+
+# Ejercicio 2:
