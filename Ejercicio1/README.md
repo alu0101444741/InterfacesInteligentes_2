@@ -5,6 +5,7 @@ Los objetos permanecen estáticos en la posición asignada.
 ![](https://github.com/alu0101444741/InterfacesInteligentes_2/blob/main/Ejercicio1/Apartado_a.png)
 
 b. La esfera tiene físicas y el cubo no.
+
 La esfera es afectada por la gravedad y cae hasta colisionar con el terreno.
 
 ![](https://github.com/alu0101444741/InterfacesInteligentes_2/blob/main/Ejercicio1/Apartado_b.gif)
