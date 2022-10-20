@@ -7,12 +7,12 @@
     b. La esfera tiene físicas y el cubo no
         La esfera es afectada por la gravedad y cae hasta colisionar con el terreno.
         
-    ![](https://github.com/alu0101444741/InterfacesInteligentes_2/blob/main/Ejercicio1/Apartado_b.mp4)
+    ![](https://github.com/alu0101444741/InterfacesInteligentes_2/blob/main/Ejercicio1/Apartado_b.gif)
     
     c. Ambos tienen físicas
         Ambos caen.
         
-    ![](https://github.com/alu0101444741/InterfacesInteligentes_2/blob/main/Ejercicio1/Apartado_c.mp4)
+    ![](https://github.com/alu0101444741/InterfacesInteligentes_2/blob/main/Ejercicio1/Apartado_c.gif)
      
     d. Ambos tienen físicas pero la esfera tiene 10 veces la masa del cubo
         No se aprecia diferencia alguna con el apartado anterior.
