@@ -20,12 +20,12 @@
     e. La esfera es física y el cubo es IsTrigger
         La esfera cae hasta colisionar con el terreno pero el cubo permanece estático.
         
-    ![](https://github.com/alu0101444741/InterfacesInteligentes_2/blob/main/Ejercicio1/Apartado_e.mp4)
+    ![](https://github.com/alu0101444741/InterfacesInteligentes_2/blob/main/Ejercicio1/Apartado_b.gif)
     
     f. Ambos tienen físicas pero el cubo es IsTrigger
         El cubo atraviesa el terreno y cae infinitamente.
         
-    ![](https://github.com/alu0101444741/InterfacesInteligentes_2/blob/main/Ejercicio1/Apartado_f.mp4)
+    ![](https://github.com/alu0101444741/InterfacesInteligentes_2/blob/main/Ejercicio1/Apartado_f.gif)
     
     g. Ambos tienen físicas. La esfera tiene 10 veces la masa del cubo y se impide la rotación del cubo en el plano XZ.
         No se aprecia diferencia con respecto al apartado 'c'.
