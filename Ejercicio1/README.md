@@ -2,17 +2,17 @@
     a. Ninguno de los dos es físico
         Los objetos permanecen estáticos en la posición asignada.
 
-    [![]](https://github.com/alu0101444741/InterfacesInteligentes_2/blob/main/Ejercicio1/Apartado_a.png)
+    ![](https://github.com/alu0101444741/InterfacesInteligentes_2/blob/main/Ejercicio1/Apartado_a.png)
 
     b. La esfera tiene físicas y el cubo no
         La esfera es afectada por la gravedad y cae hasta colisionar con el terreno.
         
-    [![]](https://github.com/alu0101444741/InterfacesInteligentes_2/blob/main/Ejercicio1/Apartado_b.gif)
+    ![](https://github.com/alu0101444741/InterfacesInteligentes_2/blob/main/Ejercicio1/Apartado_b.gif)
     
     c. Ambos tienen físicas
         Ambos caen.
         
-    [![]](https://github.com/alu0101444741/InterfacesInteligentes_2/blob/main/Ejercicio1/Apartado_c.gif)
+    ![](https://github.com/alu0101444741/InterfacesInteligentes_2/blob/main/Ejercicio1/Apartado_c.gif)
      
     d. Ambos tienen físicas pero la esfera tiene 10 veces la masa del cubo
         No se aprecia diferencia alguna con el apartado anterior.
